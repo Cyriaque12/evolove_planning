@@ -1,0 +1,134 @@
+Bar:
+  Jeudi:
+    - time: "18-20"
+      volunteers_needed: 2
+    - time: "20-22"
+      volunteers_needed: 3
+    - time: "22-0"
+      volunteers_needed: 3
+  Vendredi:
+    - time: "0-2"
+      volunteers_needed: 3
+    - time: "2-4"
+      volunteers_needed: 2
+      penibilite: 3
+    - time: "4-6"
+      volunteers_needed: 2
+      penibilite: 5
+    - time: "12-15"
+      volunteers_needed: 2
+    - time: "15-18"
+      volunteers_needed: 2
+    - time: "18-20"
+      volunteers_needed: 2
+    - time: "20-22"
+      volunteers_needed: 3
+    - time: "22-0"
+      volunteers_needed: 3
+  Samedi:
+    - time: "0-2"
+      volunteers_needed: 3
+    - time: "2-4"
+      volunteers_needed: 2
+      penibilite: 3
+    - time: "4-6"
+      volunteers_needed: 2
+      penibilite: 5
+    - time: "12-15"
+      volunteers_needed: 2
+    - time: "15-18"
+      volunteers_needed: 2
+    - time: "18-20"
+      volunteers_needed: 2
+    - time: "20-22"
+      volunteers_needed: 2
+    - time: "22-0"
+      volunteers_needed: 3
+  Dimanche:
+    - time: "0-2"
+      volunteers_needed: 3
+    - time: "2-4"
+      volunteers_needed: 2
+      penibilite: 3
+    - time: "4-6"
+      volunteers_needed: 2
+      penibilite: 5
+
+Accueil:
+  Jeudi:
+    - time: "18-20"
+      volunteers_needed: 2
+    - time: "20-22"
+      volunteers_needed: 2
+
+Jeton:
+  Jeudi:
+    - time: "18-20"
+      volunteers_needed: 2
+    - time: "20-22"
+      volunteers_needed: 2
+    - time: "22-0"
+      volunteers_needed: 2
+  Vendredi:
+    - time: "0-2"
+      volunteers_needed: 2
+    - time: "16-19"
+      volunteers_needed: 2
+    - time: "19-22"
+      volunteers_needed: 2
+    - time: "22-0"
+      volunteers_needed: 2
+  Samedi:
+    - time: "0-2"
+      volunteers_needed: 2
+    - time: "18-20"
+      volunteers_needed: 2
+    - time: "20-22"
+      volunteers_needed: 2
+    - time: "22-0"
+      volunteers_needed: 2
+
+Poubelles:
+  Vendredi:
+    - time: "14-15"
+      volunteers_needed: 2
+      penibilite: 3
+    - time: "20-21"
+      volunteers_needed: 2
+      penibilite: 3
+  Samedi:
+    - time: "14-15"
+      volunteers_needed: 2
+      penibilite: 3
+    - time: "20-21"
+      volunteers_needed: 2
+      penibilite: 3
+
+Cuisine:
+  Jeudi:
+    - time: "18-20"
+      volunteers_needed: 3
+      penibilite: 2
+    - time: "20-22"
+      volunteers_needed: 2
+      penibilite: 2
+  Vendredi:
+    - time: "11-14"
+      volunteers_needed: 3
+      penibilite: 5
+    - time: "14-17"
+      volunteers_needed: 2
+      penibilite: 2
+    - time: "17-20"
+      volunteers_needed: 2 
+      penibilite: 2
+  Samedi:
+    - time: "11-14"
+      volunteers_needed: 2
+      penibilite: 5
+    - time: "14-17"
+      volunteers_needed: 2
+      penibilite: 2
+    - time: "17-20"
+      volunteers_needed: 2 
+      penibilite: 2

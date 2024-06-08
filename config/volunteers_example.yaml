@@ -1,0 +1,29 @@
+volunteers:
+  - name: "John, Doe"
+    team: 1
+    starting_time: '13/06/2024 16:00:00'
+  - name: "Jack, Doe"
+    team: 1
+    starting_time: '13/06/2024 16:00:00'
+  - name: "Jane, Doe"
+    team: 1
+    starting_time: '13/06/2024 16:00:00'
+
+  - name: "Lucy, Doe"
+    team: 2
+    starting_time: '13/06/2024 16:00:00'
+  - name: "Alex, Doe"
+    team: 2
+    starting_time: '13/06/2024 16:00:00'
+    busy_times:
+      - '14/06/2024 03:00:00 - 14/06/2024 08:00:00'
+      - '15/06/2024 11:00:00 - 14/06/2024 16:00:00'
+
+  - name: "Bob, Doe"
+    team: 3
+    starting_time: '14/06/2024 18:30:00'
+    max_hours: 7
+  - name: "Alice, Doe"
+    team: 3
+    starting_time: '14/06/2024 18:30:00'
+    max_hours: 7

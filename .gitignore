@@ -1,0 +1,6 @@
+config/volunteers.yaml
+__pycache__/
+output/*
+
+*.txt
+*.log

@@ -1,0 +1,109 @@
+Bar:
+  - time: "13/06/2024 18:00:00 - 13/06/2024 21:00:00"
+    volunteers_needed: 2
+  - time: "13/06/2024 21:00:00 - 14/06/2024 00:00:00"
+    volunteers_needed: 3
+  - time: "14/06/2024 00:00:00 - 14/06/2024 02:00:00"
+    volunteers_needed: 3
+  - time: "14/06/2024 02:00:00 - 14/06/2024 04:00:00"
+    volunteers_needed: 2
+    penibilite: 3
+  - time: "14/06/2024 04:00:00 - 14/06/2024 06:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "14/06/2024 13:00:00 - 14/06/2024 16:00:00"
+    volunteers_needed: 2
+  - time: "14/06/2024 16:00:00 - 14/06/2024 19:00:00"
+    volunteers_needed: 2
+  - time: "14/06/2024 19:00:00 - 14/06/2024 22:00:00"
+    volunteers_needed: 3
+  - time: "14/06/2024 22:00:00 - 15/06/2024 00:00:00"
+    volunteers_needed: 3
+  - time: "15/06/2024 00:00:00 - 15/06/2024 02:00:00"
+    volunteers_needed: 3
+  - time: "15/06/2024 02:00:00 - 15/06/2024 04:00:00"
+    volunteers_needed: 2
+    penibilite: 3
+  - time: "15/06/2024 04:00:00 - 15/06/2024 06:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "15/06/2024 13:00:00 - 15/06/2024 16:00:00"
+    volunteers_needed: 2
+  - time: "15/06/2024 16:00:00 - 15/06/2024 19:00:00"
+    volunteers_needed: 2
+  - time: "15/06/2024 19:00:00 - 15/06/2024 22:00:00"
+    volunteers_needed: 3
+  - time: "15/06/2024 22:00:00 - 16/06/2024 00:00:00"
+    volunteers_needed: 3
+  - time: "16/06/2024 00:00:00 - 16/06/2024 02:00:00"
+    volunteers_needed: 2
+  - time: "16/06/2024 02:00:00 - 16/06/2024 04:00:00"
+    volunteers_needed: 2
+    penibilite: 3
+  - time: "16/06/2024 04:00:00 - 16/06/2024 06:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+
+Accueil:
+  - time: "13/06/2024 18:00:00 - 13/06/2024 20:00:00"
+    volunteers_needed: 2
+  - time: "13/06/2024 20:00:00 - 13/06/2024 22:00:00"
+    volunteers_needed: 2
+
+Jeton:
+  - time: "13/06/2024 18:00:00 - 13/06/2024 21:00:00"
+    volunteers_needed: 2
+  - time: "13/06/2024 21:00:00 - 14/06/2024 00:00:00"
+    volunteers_needed: 2
+  - time: "14/06/2024 00:00:00 - 14/06/2024 02:00:00"
+    volunteers_needed: 1
+  - time: "14/06/2024 16:00:00 - 14/06/2024 19:00:00"
+    volunteers_needed: 1
+  - time: "14/06/2024 19:00:00 - 14/06/2024 22:00:00"
+    volunteers_needed: 1
+  - time: "14/06/2024 22:00:00 - 15/06/2024 01:00:00"
+    volunteers_needed: 1
+  - time: "15/06/2024 18:00:00 - 15/06/2024 21:00:00"
+    volunteers_needed: 1
+  - time: "15/06/2024 21:00:00 - 16/06/2024 00:00:00"
+    volunteers_needed: 1
+
+Trash:
+  - time: "14/06/2024 14:00:00 - 14/06/2024 15:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "14/06/2024 20:00:00 - 14/06/2024 21:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "15/06/2024 14:00:00 - 15/06/2024 15:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "15/06/2024 20:00:00 - 15/06/2024 21:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+
+Cuisine:
+  - time: "13/06/2024 18:00:00 - 13/06/2024 20:00:00"
+    volunteers_needed: 2
+    penibilite: 2
+  - time: "13/06/2024 20:00:00 - 13/06/2024 22:00:00"
+    volunteers_needed: 2
+    penibilite: 2
+  - time: "14/06/2024 11:00:00 - 14/06/2024 14:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "14/06/2024 14:00:00 - 14/06/2024 17:00:00"
+    volunteers_needed: 2
+    penibilite: 2
+  - time: "14/06/2024 17:00:00 - 14/06/2024 20:00:00"
+    volunteers_needed: 2
+    penibilite: 2
+  - time: "15/06/2024 11:00:00 - 15/06/2024 14:00:00"
+    volunteers_needed: 2
+    penibilite: 5
+  - time: "15/06/2024 14:00:00 - 15/06/2024 17:00:00"
+    volunteers_needed: 2
+    penibilite: 2
+  - time: "15/06/2024 17:00:00 - 15/06/2024 20:00:00"
+    volunteers_needed: 2
+    penibilite: 2
